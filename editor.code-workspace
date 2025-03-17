@@ -1,0 +1,53 @@
+{
+  "folders": [
+    {
+      "path": "./"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#282D46",
+      "activityBarBadge.background": "#282D46"
+    },
+    "editor.codeActionsOnSave": null,
+    "editor.tabSize": 2,
+    //"editor.insertSpaces": false,
+    "editor.fontFamily": "Osaka-Mono, Menlo, Monaco, 'Courier New', monospace",
+    "prettier.printWidth": 640,
+    "prettier.tabWidth": 2,
+    "files.insertFinalNewline": false,
+    "editor.comments.ignoreEmptyLines": true,
+    "editor.comments.insertSpace": false,
+    "emmet.includeLanguages": {
+      "ejs": "html"
+    },
+    "[php]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": false,
+      "editor.insertSpaces": true
+    },
+    "[html]": {
+      //"editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.defaultFormatter": "j69.ejs-beautify",
+      //"editor.defaultFormatter": "markuplint",
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true
+    },
+    "[scss]": {
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true
+    },
+    "[ejs]": {
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true
+    },
+    "[javascript]": {
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true
+    },
+    "[css]": {
+      "editor.formatOnSave": true,
+      "editor.insertSpaces": true
+    }
+  }
+}
