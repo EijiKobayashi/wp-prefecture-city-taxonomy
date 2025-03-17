@@ -22,9 +22,9 @@ WordPress でウェブサイトを構築する際、都道府県や市区町村�
 
 [管理画面](https://dev.d24c.com/prefecture-city/admin/)
 
-**ベーシック認証**
+<!-- **ベーシック認証**
 
-- prefecture / city
+- prefecture / city -->
 
 **ログイン情報**
 
